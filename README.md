@@ -1,6 +1,6 @@
-## shopping cart module
+## Shopping cart module
 
 visit final module: https://shopping-cart-function.netlify.app/
 
-# setup
+### setup
 react useReducer
